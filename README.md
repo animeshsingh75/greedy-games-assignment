@@ -4,28 +4,6 @@
 
 This app contains a standalone container, that displays a list of  dynamic Contextual Cards
 
-## Basic Functionalities
-
-- All the cases for each card type have been handled
-- On long press of Big Display Card (HC3), it slides to the right and display action buttons as per the design
-- Handled loading and error states
-- Implemented swipe down to refresh feature
-
-## Tech stack and frame work used
-
-- Kotlin
-- MVVM
-- Flow
-
-## Libraries Used
-
-- Retrofit
-- Picasso
-- Gson
-
-## Link to apk
-
-[APK Link](https://github.com/animeshsingh75/Fampay-Assignment/blob/master/APK/app-debug.apk)
 
 ## Basic Functionalities
 
@@ -38,6 +16,7 @@ This app contains a standalone container, that displays a list of  dynamic Conte
 ## Tech stack and frame work used
 
 - Kotlin
+- Flows
 - MVVM
 
 ## Libraries Used
@@ -45,6 +24,7 @@ This app contains a standalone container, that displays a list of  dynamic Conte
 - Retrofit
 - Picasso
 - Gson
+
 
 ## Link to apk
 
