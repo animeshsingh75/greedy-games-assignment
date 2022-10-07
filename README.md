@@ -1,4 +1,4 @@
-# greedy-games-assignment
+# Greedy Games Assignment
 
 ## About the app
 
