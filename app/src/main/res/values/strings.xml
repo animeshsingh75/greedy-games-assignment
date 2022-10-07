@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GreedyGamesAssignment</string>
+    <string name="musicwiki">musicWiki</string>
+    <string name="welcome">Welcome!</string>
+    <string name="choose_a_genre_to_start_with">Choose a genre to start with</string>
+    <string name="albums">ALBUMS</string>
+    <string name="artists">ARTISTS</string>
+    <string name="tracks">TRACKS</string>
+    <string name="playcount">Playcount</string>
+    <string name="followers">Followers</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="top_albums">Top Albums</string>
+
+</resources>
